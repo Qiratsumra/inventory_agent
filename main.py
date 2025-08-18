@@ -96,6 +96,7 @@ result = Runner.run_sync(
 2. Remove 2 laptops on id 1.
 3. Update mouse quantity to 40 on id 2.
 4. Show me the updated inventory.
+5. Show me the inventory data.
 """
 )
 
